@@ -1,0 +1,10 @@
+train_text: "path/to/train/text/file"
+val_text: "path/to/val/text/file"
+test_text: "path/to/test/text/file"
+seq_len: 256
+batch_size: 16
+emb_dim: 64
+ssm_hidden: 256
+n_layers: 4
+epochs: 100
+ckpt_dir: "experiments/small"
