@@ -21,4 +21,6 @@ Simplified non-selective SSM (fixed diagonal A, input-independent B/C).
 | medium  | 512    | 8         | 128    | 512       | 6       | 50    | 4.39    | -   4.45               | Standard config       |
 | small      | 256    | 16        | 64     | 256       | 4       | 100    | 4.66     | 4.68                | Quick training run    |
 | tiny      | 128    | 32        | 64     | 128       | 2       | 100    | 6.08     | 6.08                  | code debugging run    |
-Results, Plots and logs in respective folders.
+
+
+Results, Plots and logs in respective folders[https://github.com/diptiman-mohanta/State-Space-Models-for-Large-Language-Models/tree/main/diag-ssm-charlm].
