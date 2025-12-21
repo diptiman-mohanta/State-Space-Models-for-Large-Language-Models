@@ -1,0 +1,33 @@
+============================================================
+FINAL TEST RESULTS
+============================================================
+
+Individual Model Test Results:
+------------------------------------------------------------
+Model 1 (Epoch 46):
+  File: epoch_046_valppl_4.39_valacc_0.5938.pt
+  Validation PPL: 4.39, Validation Acc: 0.5938
+Model 2 (Epoch 50):
+  File: epoch_050_valppl_4.39_valacc_0.5939.pt
+  Validation PPL: 4.39, Validation Acc: 0.5939
+Model 3 (Epoch 49):
+  File: epoch_049_valppl_4.39_valacc_0.5938.pt
+  Validation PPL: 4.39, Validation Acc: 0.5938
+Model 4 (Epoch 48):
+  File: epoch_048_valppl_4.39_valacc_0.5934.pt
+  Validation PPL: 4.39, Validation Acc: 0.5934
+Model 5 (Epoch 47):
+  File: epoch_047_valppl_4.39_valacc_0.5935.pt
+  Validation PPL: 4.39, Validation Acc: 0.5935
+
+============================================================
+ENSEMBLE RESULTS (Inference-time averaging):
+------------------------------------------------------------
+Ensemble Test PPL: 4.45
+Ensemble Test Accuracy: 0.5884
+
+============================================================
+AVERAGED MODEL RESULTS (Parameter averaging):
+------------------------------------------------------------
+Averaged Model Test PPL: 4.45
+Averaged Model Test Accuracy: 0.5884
